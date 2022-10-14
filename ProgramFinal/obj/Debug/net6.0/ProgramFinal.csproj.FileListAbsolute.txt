@@ -1,0 +1,15 @@
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\obj\Debug\net6.0\ProgramFinal.csproj.AssemblyReference.cache
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\obj\Debug\net6.0\ProgramFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\obj\Debug\net6.0\ProgramFinal.AssemblyInfoInputs.cache
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\obj\Debug\net6.0\ProgramFinal.AssemblyInfo.cs
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\obj\Debug\net6.0\ProgramFinal.csproj.CoreCompileInputs.cache
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\bin\Debug\net6.0\ProgramFinal.exe
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\bin\Debug\net6.0\ProgramFinal.deps.json
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\bin\Debug\net6.0\ProgramFinal.runtimeconfig.json
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\bin\Debug\net6.0\ProgramFinal.dll
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\bin\Debug\net6.0\ProgramFinal.pdb
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\obj\Debug\net6.0\ProgramFinal.dll
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\obj\Debug\net6.0\refint\ProgramFinal.dll
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\obj\Debug\net6.0\ProgramFinal.pdb
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\obj\Debug\net6.0\ProgramFinal.genruntimeconfig.cache
+C:\Users\Шаурин\Desktop\git-education\Projects C#\Final Task\ProgramFinal\obj\Debug\net6.0\ref\ProgramFinal.dll
